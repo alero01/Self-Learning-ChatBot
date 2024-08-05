@@ -1,0 +1,80 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "hi"
+    },
+    {
+      "question": "how are you?",
+      "answer": "good"
+    },
+    {
+      "question": "whats your name?",
+      "answer": "Adrium"
+    },
+    {
+      "question": "heyy",
+      "answer": "heyy"
+    },
+    {
+      "question": "movies?",
+      "answer": "Star Trek"
+    },
+    {
+      "question": "do you watch movies?",
+      "answer": "sometimes"
+    },
+    {
+      "question": "who is Adrium?",
+      "answer": "I am"
+    },
+    {
+      "question": "who am I?",
+      "answer": "another person"
+    },
+    {
+      "question": "what day is it?",
+      "answer": "you tell me"
+    },
+    {
+      "question": "today is sunday",
+      "answer": "the last day of the week"
+    },
+    {
+      "question": "sunday",
+      "answer": "the last day of the week"
+    },
+    {
+      "question": "whats tomorrow?",
+      "answer": "the day after today"
+    },
+    {
+      "question": "what games do you like",
+      "answer": "Dungeons and Dragons"
+    },
+    {
+      "question": "hi",
+      "answer": "hello"
+    },
+    {
+      "question": "me too",
+      "answer": "im happy that youre alright"
+    },
+    {
+      "question": "I like DnD too",
+      "answer": "my favorite class is sorcerer"
+    },
+    {
+      "question": "My favorite class is arcane trickster",
+      "answer": "I like that class too"
+    },
+    {
+      "question": "what's DnD?",
+      "answer": "DnD is a tabletop roleplaying game"
+    },
+    {
+      "question": "are their other TTRPGs?",
+      "answer": "Yes, another popular series is Pathfinder"
+    }
+  ]
+}
